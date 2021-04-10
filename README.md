@@ -1,5 +1,6 @@
 # SQL Homework - Employee Database: A Mystery in Two Parts
 ### Due 4/10
+config.py was not included with this submission so to run the file you will have to use your own pgadmin password.
 
 ![sql.png](sql.png)
 
